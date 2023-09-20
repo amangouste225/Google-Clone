@@ -17,6 +17,7 @@
   font-size: medium;
   border: none;
   background-color: transparent;
+  color: white;
 }
 
 .search__input > input:focus {
