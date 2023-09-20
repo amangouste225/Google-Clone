@@ -2,8 +2,8 @@ import './Home.css'
 import { Link } from 'react-router-dom'
 import AppsIcon from '@mui/icons-material/Apps'
 import { Avatar } from '@mui/material'
-import { GoogleImage } from '../../images'
-import Search from '../../components/Search'
+import { GoogleImage } from '../images'
+import Search from '../components/Search'
 
 function Home() {
   return (

@@ -1,15 +1,7 @@
-import SearchIcon from '@mui/icons-material/Search'
-import MicNoneIcon from '@mui/icons-material/MicNone'
-import './Search.css'
-
 function Search() {
   return (
-    <div className='search'>
-      <div className='search__input'>
-        <SearchIcon />
-        <input type='text' />
-        <MicNoneIcon />
-      </div>
+    <div>
+      <h2>This is the search page</h2>
     </div>
   )
 }
