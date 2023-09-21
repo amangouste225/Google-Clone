@@ -25,7 +25,7 @@ function Home() {
           <img src={GoogleImage} alt='' />
         </figure>
 
-        <Search />
+        <Search hideBtn />
       </div>
 
       <div className='home__footer'></div>
